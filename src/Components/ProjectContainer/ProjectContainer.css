@@ -5,9 +5,13 @@
     flex-direction: column;
     color: white;
     justify-content: center;
-    margin: 200px 0;
+    margin: 200px 0 100px;
     align-items: center;
+    text-align: center;
+
 }
+
+
 .projectcontainer h1{
     padding-bottom: 15px;
 }
@@ -19,4 +23,7 @@
     width: 60vw;
     margin-top: 50px;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
