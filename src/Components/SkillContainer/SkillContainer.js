@@ -49,7 +49,22 @@ const SkillContainer=()=>{
     </div>
 
 </div>
-    
+<div className="skillcontainer_skillset" >
+    <h5>PYTHON</h5>
+    <div className="skillcontainer_slider skillcontainer_slider5">
+   
+<LinearProgress variant="determinate" value={79} />
+
+    </div>
+</div>
+<div className="skillcontainer_skillset" >
+    <h5>SQL</h5>
+    <div className="skillcontainer_slider skillcontainer_slider6">
+   
+<LinearProgress variant="determinate" value={67} />
+
+    </div>
+</div>
 </div>
 
     </Element>

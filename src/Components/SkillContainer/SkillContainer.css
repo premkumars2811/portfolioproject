@@ -50,6 +50,12 @@
 .skillcontainer_slider4 span .MuiLinearProgress-barColorPrimary{
     background-color: rgb(228,213,0);
 }
+.skillcontainer_slider5 span .MuiLinearProgress-barColorPrimary{
+    background-color: rgb(0,128,0);
+}
+.skillcontainer_slider6 span .MuiLinearProgress-barColorPrimary{
+    background-color: rgb(42, 0, 228);
+}
 
 @media screen and (max-width:600px) {
     .skillcontainer{

@@ -7,7 +7,7 @@ const TopContent=()=>{
 <div className="topcontent">
     <div className="topcontent_container">
         <h1>Mr Premkumar</h1>
-        <p>A professional web and app development</p>
+        <p>A professional Full stack developer</p>
         <a href={resume} download="resume">
             <button className="topcontent_downloadbutton">Download CV</button>
         </a>
